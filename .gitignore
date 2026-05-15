@@ -5,7 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+
+# Custom files
 game_state.jsonl
+game_event.jsonl
 
 # Virtual environments
 .venv
